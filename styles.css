@@ -1,0 +1,54 @@
+body{
+
+  font-family: 'Red Hat Display', sans-serif;
+  text-align: center;
+  font-size: 16px;
+  background-image:url("http://upload.wikimedia.org/wikipedia/commons/1/1a/Bachalpseeflowers.jpg)");
+  background-repeat:no-repeat;
+  background-size:cover;
+
+
+}
+section{
+  padding: 100px  500px 100px 500px;
+
+}
+h1{
+  font-weight: 700px;
+}
+button{
+  margin: 12px;
+}
+p{
+  color:hsl(225, 100%, 98%);
+  margin:auto;
+}
+
+.row{
+  background-color: hsl(225, 100%, 98%);
+  margin: 12px;
+  padding: 18px 0px;
+}
+.card-body{
+  padding-top: 25px;
+}
+.card-text{
+  padding: 2rem ;
+
+}
+.col-lg-6{
+  text-align: left;
+}
+.price{
+  color:hsl(225, 100%, 94%);
+}
+#link{
+  padding-top: 12px;
+
+#icon{
+  padding: 0;
+  max-width: 100px;
+}
+@media only screen and (max width:800px){
+
+}
